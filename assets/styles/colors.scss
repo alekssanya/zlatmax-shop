@@ -1,0 +1,17 @@
+$color-yellow: #E8AA31;
+$color-white : #FFFFFF;
+$color-black: #000000;
+$color-grey: #898989;
+$title-black: #141414;
+$text-grey: #ABABAB;
+
+
+
+:export {
+    color-yellow: $color-yellow;
+    color-white: $color-white;
+    color-black: $color-black;
+    color-grey: $color-grey;
+    title-black: $title-black;
+    text-grey: $text-grey;
+}

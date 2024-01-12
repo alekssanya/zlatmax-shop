@@ -1,0 +1,20 @@
+{
+  "name": "zlatmax-shop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "s": "next dev"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^14.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.0",
+    "@types/react": "18.2.47",
+    "sass": "^1.69.7",
+    "typescript": "5.3.3"
+  }
+}
